@@ -61,7 +61,7 @@
     "gatsby-transformer-csv": "^2.1.12",
     "gatsby-transformer-documentationjs": "^4.1.14",
     "gatsby-transformer-remark": "^2.6.28",
-    "gatsby-transformer-screenshot": "^2.1.32",
+    "gatsby-transformer-screenshot": "^2.1.33",
     "gatsby-transformer-sharp": "^2.2.21",
     "gatsby-transformer-yaml": "^2.2.13",
     "get-package-json-from-github": "^1.2.1",
